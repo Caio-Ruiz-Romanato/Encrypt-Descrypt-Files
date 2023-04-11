@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Created-By: Caio-Pixu
+X-COMMENT: Aplicacao para criptografia de arquivos
