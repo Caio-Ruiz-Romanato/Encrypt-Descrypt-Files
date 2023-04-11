@@ -5,4 +5,4 @@ O sistema criado a fim de manter seus arquivos mais seguros criptografando e des
 
 ## Tecnologia utilizada
 - Java ☕
-<img align="right" src="https://raw.githubusercontent.com/Caio-Ruiz-Romanato/Encrypt-Descrypt-Files/main/logo-java-256.png" width="256"/>
+<img align="left" src="https://raw.githubusercontent.com/Caio-Ruiz-Romanato/Encrypt-Descrypt-Files/main/logo-java-256.png" width="256"/>
